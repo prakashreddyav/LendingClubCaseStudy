@@ -17,19 +17,27 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+#Steps Performed
+- Step 1: Data Sourcing
+- Step 2: Data Cleaning
+- Step 3: Derived Columns
+- Step 4: Univariate Analysis
+- Step-5: Bivariate Analysis
+
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Below are the high level conclusions. for more details check inferences sections of different analysis.
+- Loans take in the state of NE(Nebraska) has very high very high risk of getting defaulted.
+- Loans with smaller amounts have high risk of getting defaulted.
+- Loans given to the customer with history of bancrupcy have high chances of defaulting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -41,7 +49,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@prakashreddyav] - feel free to contact me!
 
 
 <!-- Optional -->
